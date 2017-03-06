@@ -1,0 +1,17 @@
+/*********************************************************
+-------------------------- Haze --------------------------
+Design: apopagasm
+CSS: Exanurous
+Build: 39
+Bug Reports: forums.php?action=viewthread&threadid=189200
+Style derived from Gazelle Postmod
+*********************************************************/
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,bold);
+@import url(https://gitcdn.link/cdn/exanurous/haze_pth/master/theme-grayscale.css);
+
+/* M5 Background Image */
+/* body {background-image: url('http://i.imgur.com/63LYzHn.png');} */
+
+/* Orion Nebula Background Image */
+body {background-image: url('http://i.imgur.com/fxdpGcx.jpg');}
